@@ -14,21 +14,28 @@ NanoCloud 是一家拥有先进技术的网络服务提供商，旨在为用户�
 
 机场开发的 TG BOT，可以在 TG 购买套餐，管理自己的数据，相当强大。
 
-![image]()
-
-Telegram 客户端搜索 NanoAir 即可搜索到机器人，或者打开 [t.me/NanoAir_bot](https://t.me/NanoAir_bot) 绑定机器人
-
 ![image](https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-1.jpg)
+
+Telegram 客户端搜索 NanoAir_bot 即可搜索到机器人，或者打开 [t.me/NanoAir_bot](https://t.me/NanoAir_bot) 绑定机器人
+
+![image](https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-2.jpg)
+
+加入我们Telegram 官方频道获取优惠：[nanoceo.github.io](https://nanoceo.github.io)
+
+![image](https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-3.jpg)
 
 对于使用者来说，NanoCloud 提供了多种套餐选择，其中包括了
 
-![image]()
+![image](https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-5.jpg)
+![image](https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-6.jpg)
 
 套餐还支持 IPv6。
 
 更有意思的是，只需邀请 3 位有效用户注册，即可免费享受一个月的订阅服务，实现白嫖套餐的梦想。而且，NanoCloud 提供了专门的 TG 频道，用户可以通过添加频道获得更多内部折扣优惠。
 
 总的来说，NanoCloud 为用户提供了一种全新的流媒体解锁体验，让用户摆脱地域限制和网络限速的束缚，畅享全球优质内容。随着数字化的不断深入，NanoCloud 将继续致力于为用户提供更加便捷、高效的网络服务，让用户在网络世界中畅行无阻，尽情享受数字化生活的乐趣。
+
+![image](https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-4.jpg)
 
 ## 套餐列表
 
