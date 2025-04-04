@@ -18,7 +18,7 @@ NanoCloud 是一家拥有先进技术的网络服务提供商，旨在为用户�
 
 Telegram 客户端搜索 NanoAir 即可搜索到机器人，或者打开 [t.me/NanoAir_bot](https://t.me/NanoAir_bot) 绑定机器人
 
-![image]()
+![image](https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-1.jpg)
 
 对于使用者来说，NanoCloud 提供了多种套餐选择，其中包括了
 
