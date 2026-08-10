@@ -1,6 +1,6 @@
 # NanoCloud 机场官网
 
-# 性价比机场 · 一元机场
+# 性价比机场 · 一元机场· 猎户座机场· 白羊座机场
 
 > **NanoCloud** 是一家主打高性价比的机场服务商，提供多地区节点、流媒体解锁、IPv6、Telegram Bot 以及 Nano 客户端等服务。
 
@@ -48,11 +48,11 @@ NanoCloud 提供 **100GB、300GB、600GB** 多档套餐，主打低价高流量�
 | 🚀 射手座 | 600GB/月 | ¥20 | ¥240 |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-5.jpg" alt="NanoCloud 套餐" width="600">
+  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-5.jpg" alt="NanoCloud 套餐" width="450">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-6.jpg" alt="NanoCloud 套餐详情" width="600">
+  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-6.jpg" alt="NanoCloud 套餐详情" width="450">
 </p>
 
 > 套餐价格及服务内容可能调整，具体以官方最新信息为准。
@@ -78,7 +78,7 @@ Telegram 搜索 **`NanoAir_bot`**，或直接访问：
 👉 [https://t.me/NanoAir_bot](https://t.me/NanoAir_bot)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-1.jpg" alt="NanoCloud Telegram Bot" width="600">
+  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-1.jpg" alt="NanoCloud Telegram Bot" width="450">
 </p>
 
 ---
@@ -88,7 +88,7 @@ Telegram 搜索 **`NanoAir_bot`**，或直接访问：
 NanoCloud 提供 **Nano 客户端**，方便用户管理订阅及使用节点。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-2.jpg" alt="NanoCloud 客户端" width="600">
+  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-2.jpg" alt="NanoCloud 客户端" width="450">
 </p>
 
 ---
@@ -100,7 +100,7 @@ NanoCloud 提供 **Nano 客户端**，方便用户管理订阅及使用节点。
 官方 Telegram 频道还会不定期发布优惠活动及内部折扣。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-3.jpg" alt="NanoCloud 官方频道" width="600">
+  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-3.jpg" alt="NanoCloud 官方频道" width="450">
 </p>
 
 ---
@@ -119,7 +119,7 @@ NanoCloud 提供 **Nano 客户端**，方便用户管理订阅及使用节点。
 | 💰 高性价比 | 100GB 起，¥1/月 |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-4.jpg" alt="NanoCloud" width="600">
+  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-4.jpg" alt="NanoCloud" width="450">
 </p>
 
 
