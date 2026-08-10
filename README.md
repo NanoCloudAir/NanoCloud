@@ -12,7 +12,7 @@
 > * **主用官网**：[cloud.52iplc.com](https://cloud.52iplc.com)
 > * **备用官网**：[nanoair.github.io](https://nanoair.github.io)
 > * **临时官网**：[https://46.51.235.186](https://46.51.235.186) 
-> * **临时官网**：[https://[2406:da14:1301:701:86d8:a3d1:aad0:abe9]](https://[2406:da14:1301:701:86d8:a3d1:aad0:abe9])
+> * **临时官网**：[https://[2406:da14:1301:701:86d8:a3d1:aad0:abe9]](http://[2406:da14:1301:701:86d8:a3d1:aad0:abe9]/)
 > * **Nano客户端**：[nanovpnapp.github.io](https://nanovpnapp.github.io) *(客户端下载与配置)*
 > * **官方频道**：[nanoceo.github.io](https://nanoceo.github.io) *(获取最新折扣与维护通知)*
 
