@@ -1,69 +1,130 @@
-# NanoCloud机场官网地址
+# NanoCloud 机场官网
 
-官方网站 ①：[cloud.52iplc.com](https://cloud.52iplc.com)  
-官方网站 ②：[nanoair.github.io](https://nanoair.github.io)  
-官方频道：[nanoceo.github.io](https://nanoceo.github.io)
+# 性价比机场 · 一元机场
 
-## 简介
+> **NanoCloud** 是一家主打高性价比的机场服务商，提供多地区节点、流媒体解锁、IPv6、Telegram Bot 以及 Nano 客户端等服务。
 
-NanoCloud 是一家拥有先进技术的网络服务提供商，旨在为用户提供高速、稳定的网络连接，解锁全球各种流媒体平台，包括但不限于 ChatGPT、TikTok、Netflix 和 Disney+。其独特的线路直连中转混合技术，确保用户能够高效地访问目标网站，无需担心地域限制问题。
+> 🔖 **建议将本页加入书签**，方便随时获取 **NanoCloud 机场最新官网地址、备用域名及官方公告**。
 
-最令人称赞的是，NanoCloud 的节点支持晚高峰 YouTube 播放测试，即使在网络繁忙的时段，也能轻松播放 720P 至 2160P 的视频，快进秒开，让用户尽情享受高清视频的视觉盛宴。用户只需通过 WiFi 连接，即可体验到流畅的观影体验，无需担心卡顿和缓冲。
 
-此外，NanoCloud 强调不建议使用测速软件或网站来测试速度，因为这可能导致运营商限速。如果用户遇到限速问题，只需简单地重启光猫即可解决。值得一提的是，移动端播放 720P 的清晰度已经足够，而频繁观看 2160P 的高清视频可能会消耗较多流量，用户需谨慎使用。
+> **🌐Nano官网  猎户座机场 白羊座机场**
+> 
+> * **主用官网**：[cloud.52iplc.com](https://cloud.52iplc.com)
+> * **备用官网**：[nanoair.github.io](https://nanoair.github.io)
+> * **临时官网**：[https://46.51.235.186](https://46.51.235.186) 
+> * **临时官网**：[https://[2406:da14:1301:701:86d8:a3d1:aad0:abe9]](https://[2406:da14:1301:701:86d8:a3d1:aad0:abe9])
+> * **官方频道**：[nanoceo.github.io](https://nanoceo.github.io) *(获取最新折扣与维护通知)*
 
-机场开发的 TG BOT，可以在 TG 购买套餐，管理自己的数据，相当强大。
+> 💡 **无法访问官网？请按以下步骤排查：**
+> 1. **切换网络**：部分地区存在网络阻断，请尝试切换移动、联通或电信网络重试。
+> 2. **启用代理**：若三大运营商网络均无法打开，请买个其他代理软件连接后再打开！
 
-![image](https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-1.jpg)
+---
 
-Telegram 客户端搜索 NanoAir_bot 即可搜索到机器人，或者打开 [t.me/NanoAir_bot](https://t.me/NanoAir_bot) 绑定机器人
+## 🚀 NanoCloud 机场简介
 
-![image](https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-2.jpg)
+NanoCloud 提供高速、稳定的网络连接服务，支持多地区节点及多种海外互联网服务。
 
-加入我们Telegram 官方频道获取优惠：[nanoceo.github.io](https://nanoceo.github.io)
+支持：
 
-![image](https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-3.jpg)
+- 🤖 ChatGPT
+- 🎵 TikTok
+- 🎬 Netflix
+- 📺 Disney+
+- ▶️ YouTube
+- 🌍 其他海外网站及流媒体平台
+- 🌐 IPv6 网络
 
-对于使用者来说，NanoCloud 提供了多种套餐选择，其中包括了
+---
 
-![image](https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-5.jpg)
-![image](https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-6.jpg)
+## 💰 套餐价格
 
-套餐还支持 IPv6。
+NanoCloud 提供 **100GB、300GB、600GB** 多档套餐，主打低价高流量。
 
-更有意思的是，只需邀请 3 位有效用户注册，即可免费享受一个月的订阅服务，实现白嫖套餐的梦想。而且，NanoCloud 提供了专门的 TG 频道，用户可以通过添加频道获得更多内部折扣优惠。
+| 套餐 | 流量 | 月付 | 年付 |
+| :---: | ---: | ---: | ---: |
+| ⭐ 猎户座 | 100GB/月 | ¥1 | ¥12 |
+| 🔥 白羊座 | 300GB/月 | ¥10 | ¥120 |
+| 🚀 射手座 | 600GB/月 | ¥20 | ¥240 |
 
-总的来说，NanoCloud 为用户提供了一种全新的流媒体解锁体验，让用户摆脱地域限制和网络限速的束缚，畅享全球优质内容。随着数字化的不断深入，NanoCloud 将继续致力于为用户提供更加便捷、高效的网络服务，让用户在网络世界中畅行无阻，尽情享受数字化生活的乐趣。
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-5.jpg" alt="NanoCloud 套餐" width="600">
+</p>
 
-![image](https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-4.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-6.jpg" alt="NanoCloud 套餐详情" width="600">
+</p>
 
-## 套餐列表
+> 套餐价格及服务内容可能调整，具体以官方最新信息为准。
 
-<table style="border-collapse: collapse; width: 100%; height: 201px;">
-<tbody>
-<tr style="height: 26px;">
-<td style="width: 11.2726%; text-align: center; height: 26px;"><strong>套餐名称</strong></td>
-<td style="width: 17.2596%; text-align: center; height: 26px;"><strong>猎户座</strong></td>
-<td style="width: 17.1843%; text-align: center; height: 26px;"><strong>白羊座</strong></td>
-<td style="width: 16.8587%; text-align: center; height: 26px;"><strong>射手座</strong></td>
-</tr>
-<tr style="height: 26px;">
-<td style="width: 11.2726%; text-align: center; height: 26px;">月流量</td>
-<td style="width: 17.2596%; text-align: center; height: 26px;">100G</td>
-<td style="width: 17.1843%; text-align: center; height: 26px;">300G</td>
-<td style="width: 16.8587%; text-align: center; height: 26px;">600G</td>
-</tr>
-<tr style="height: 26px;">
-<td style="width: 11.2726%; text-align: center; height: 26px;">月付</td>
-<td style="width: 17.2596%; text-align: center; height: 26px;">1元</td>
-<td style="width: 17.1843%; text-align: center; height: 26px;">10元</td>
-<td style="width: 16.8587%; text-align: center; height: 26px;">20元</td>
-</tr>
-<tr style="height: 26px;">
-<td style="width: 11.2726%; text-align: center; height: 26px;">年付</td>
-<td style="width: 17.2596%; text-align: center; height: 26px;">12元</td>
-<td style="width: 17.1843%; text-align: center; height: 26px;">120元</td>
-<td style="width: 16.7585%; text-align: center;">240元</td>
-</tr>
-</tbody>
-</table>
+---
+
+## 🤖 Telegram Bot
+
+NanoCloud 提供 Telegram Bot，可直接进行套餐及账户管理。
+
+支持：
+
+- 🛒 套餐购买
+- 📊 流量查询
+- ⏰ 到期时间查询
+- 📦 订阅管理
+- 💳 订单管理
+- 🔗 获取订阅
+- 🎁 查看优惠
+
+Telegram 搜索 **`NanoAir_bot`**，或直接访问：
+
+👉 [https://t.me/NanoAir_bot](https://t.me/NanoAir_bot)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-1.jpg" alt="NanoCloud Telegram Bot" width="600">
+</p>
+
+---
+
+## 📱 Nano 客户端
+
+NanoCloud 提供 **Nano 客户端**，方便用户管理订阅及使用节点。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-2.jpg" alt="NanoCloud 客户端" width="600">
+</p>
+
+---
+
+## 🎁 邀请奖励
+
+成功邀请 **3 位有效用户注册**，即可免费获得 **1 个月订阅**。
+
+官方 Telegram 频道还会不定期发布优惠活动及内部折扣。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-3.jpg" alt="NanoCloud 官方频道" width="600">
+</p>
+
+---
+
+## ⭐ NanoCloud 机场特色
+
+| 功能 | 说明 |
+| :--- | :--- |
+| 🚀 高速节点 | 多地区网络节点 |
+| 🔀 混合线路 | 直连 + 中转 |
+| 📺 流媒体 | 支持 Netflix、Disney+、YouTube 等 |
+| 🤖 Telegram Bot | Telegram 自助购买及管理 |
+| 📱 Nano 客户端 | 专用客户端 |
+| 🌐 IPv6 | 支持 IPv6 |
+| 🎁 邀请奖励 | 3 位有效用户 = 1 个月订阅 |
+| 💰 高性价比 | 100GB 起，¥1/月 |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanoCloudAir/NanoCloud/refs/heads/main/nanocloud-4.jpg" alt="NanoCloud" width="600">
+</p>
+
+
+## 🔍 搜索
+
+**Nano、NanoCloud、NanoCloud机场、Nano机场、NanoCloud机场官网、NanoCloud官网、Nano客户端、NanoCloud客户端、NanoCloud节点、NanoCloud订阅、NanoCloud优惠、猎户座机场、猎户座机场套餐、白羊座机场、白羊座机场套餐、射手座机场、射手座机场套餐、一元机场、性价比机场、低价机场、流媒体机场、Netflix机场、ChatGPT机场、TikTok机场、YouTube机场、机场节点、机场订阅、机场测评**
+
+---
