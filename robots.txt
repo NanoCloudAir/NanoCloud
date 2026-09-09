@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nanocloudair.github.io/NanoCloud/sitemap.xml
